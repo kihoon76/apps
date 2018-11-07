@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Book</string>
+    <string name="warn_rooting">루팅된 시스템에서는 앱이 실행되지 않습니다.</string>
+    <string name="guide_back_end">뒤로가기 버튼을 한번 더 누르시면 종료됩니다.</string>
+</resources>
